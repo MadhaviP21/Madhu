@@ -1,2 +1,7 @@
 first pipeline program
 regarding jenkins
+
+
+CI - Continuous Integration
+CD - Continuous Deployment
+
